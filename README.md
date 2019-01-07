@@ -14,3 +14,7 @@ These instructions will help you to build your own RC Car.
 
 #### Software Prerequisites
 - AVR Studio
+
+#### Acknowledgements
+- UCR
+- Paul Rodriguez
