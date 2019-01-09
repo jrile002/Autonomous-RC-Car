@@ -4,16 +4,19 @@ Embedded systems project.
 ## Getting Started
 These instructions will help you to build your own RC Car.
 
-#### Hardware Prerequisites
+#### Hardware Requirements
 - 2 Atmega1284 microcontrollers 
-- Car frame
-- 4 DC motors
-- 2 motor drivers
-- Ultrasonic sensor
-- Bluetooth module
+- Acrobatics Junior Runt Rover (comes with 4 DC motors)
+- MTD-01 motor driver
+- DRV8833 motor driver
+- HC-SR05 ultrasonic sensor
+- 2 HC-05 bluetooth modules
 
-#### Software Prerequisites
-- AVR Studio
+#### Software Requirements
+- Atmel Studio 7.0
+
+## Walkthrough
+In progress
 
 #### Acknowledgements
 - UCR
